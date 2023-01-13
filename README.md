@@ -8,7 +8,7 @@
 ## Programming Skill
 
 [![Solved.ac
-https://www.acmicpc.net/user/gmldk728](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gmldk728)](https://solved.ac/gmldk728)
 
 
 
