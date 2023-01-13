@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<!--
 <br/>
 
 
@@ -53,3 +54,4 @@
   API 관계로 악성 행위 탐지하는 방법을 습득하고 ATT&CK TTP 의 탐지에 맞춘 도구 개발
 * Development of Cyber-Physical Security for Smart Buildings<br/>
   스마트 빌딩의 구조도에서 보안적인 관점에서의 접근 방법과 이를 향상시키기 위한 방안 연구
+-->
