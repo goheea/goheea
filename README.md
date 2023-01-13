@@ -2,7 +2,7 @@
 
 * Name : Heea Go
 * Nickname : NingNing
-* Main Activity : Security Researcher & Front-end Developer
+* Main Activity : Security Researcher & Front-end Developer   
 
 
 
@@ -11,8 +11,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gmldk728)](https://solved.ac/gmldk728)
-
-
 
 
 
