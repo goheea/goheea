@@ -34,9 +34,9 @@
 
 ## Project
 
-* Web Front-end development : 오늘 뭐먹지?
+* Web Front-end development : 오늘 뭐먹지?<br/>
   냉장고에 있는 재료로 만들 수 있는 음식 추천 웹 프로젝트
-* App Front-end development : 동네 한 바퀴
+* App Front-end development : 동네 한 바퀴<br/>
   사람들의 일상활동 및 운동으로 걷기 운동을 제안하며, 꾸준한 습관이 될 수 있도록 동기를 부여하는 애플리케이션을 설계하여 제작하는 앱 프로젝트
 * Web Front-end development : '운영체제 및 보안연구실' 홈페이지 개발 및 관리
   실적 정리 및 가시성 확보를 위한 UI/UX 전반적인 개편
