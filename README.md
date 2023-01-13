@@ -5,7 +5,8 @@
 * Main Activity : Security Researcher & Front-end Developer   
 <br/>
 <br/>
-<br/>
+
+
 ## Programming Skill
 
 [![Solved.ac
