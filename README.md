@@ -15,9 +15,6 @@
 <br/>
 
 
-## Programming Languages & Tools
+## Programming Languages & Tools 
 
-
-**언어 및 도구**  
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo= C&logoColor=white"/>
