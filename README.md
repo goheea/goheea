@@ -2,14 +2,22 @@
 
 * Name : Heea Go
 * Nickname : NingNing
+* Goal : CPO
 * Main Activity : Security Researcher & Front-end Developer 
 <br/>
 
 
-## Acquired cve
+## Acquired CVEs
 
 [CVE-2023-0102](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0102)   [CVE-2023-0103](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0103)   [CVE-2023-22803](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22803)   [CVE-2023-22804](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22804)   [CVE-2023-22805](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22805)   [CVE-2023-22806](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22806)   [CVE-2023-22807](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-22807)   [CVE-2023-0457](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0457)
 <br/>
+<br/>
+
+
+## Certificate
+
+* Engineer Information Processing (23.09.01)
+* CPPG (23.12.20)
 <br/>
 
 ## Programming Skill
